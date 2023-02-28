@@ -3,10 +3,14 @@ team: Leopards
 manager: Luke
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 coach: Nicholas
 =======
 coach: Melissa
 >>>>>>> conflict-1
+=======
+coach: Melissa
+>>>>>>> 8c85b65 (Edit Leopards)
 
 members:
 - Linda
